@@ -2,4 +2,4 @@
    * 기간 :
    * 내용 :
 
-<img src="just_start.jpg">
+<img src="언어모델 발">
